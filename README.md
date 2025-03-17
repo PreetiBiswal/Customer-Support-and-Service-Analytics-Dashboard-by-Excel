@@ -1,4 +1,5 @@
 # Customer Support and Service Analytics Dashboard
+![image](https://github.com/user-attachments/assets/f1f7130d-3ee5-469d-b853-8af70e8af9f2)
 
 -> Project Overview
 This project provides a Customer Support and Service Analytics Dashboard using Microsoft Excel. The dashboard helps analyze customer support performance, ticket resolutions, agent efficiency, and customer satisfaction using interactive pivot tables, slicers, and charts.
